@@ -1,0 +1,331 @@
+[
+ {
+  "kind": "course",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "file": "00-kurs.png"
+ },
+ {
+  "kind": "chapter",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "p9OzS39Mhs2hLu7n7d32",
+  "file": "k01-kapitel.png"
+ },
+ {
+  "kind": "chapter",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "Q5rrkBoa53VvkTbxFx6Y",
+  "file": "k02-kapitel.png"
+ },
+ {
+  "kind": "chapter",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "file": "k03-kapitel.png"
+ },
+ {
+  "kind": "chapter",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "HeNl9kBFreviq29FUs7B",
+  "file": "k04-kapitel.png"
+ },
+ {
+  "kind": "chapter",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "OkkV1DHvZUdYb4Xgcd6H",
+  "file": "k05-kapitel.png"
+ },
+ {
+  "kind": "chapter",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "file": "k06-kapitel.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "p9OzS39Mhs2hLu7n7d32",
+  "lessonId": "qEXwEiioY0-SY2Qma-T3a",
+  "name": "Dein Job bei uns im Team",
+  "file": "k01-l01.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "p9OzS39Mhs2hLu7n7d32",
+  "lessonId": "3v9kdOnAzvPLnhSJcpWdE",
+  "name": "Erwartungshaltung an Dich",
+  "file": "k01-l02.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "p9OzS39Mhs2hLu7n7d32",
+  "lessonId": "iph9aC0Yip0gsrcfDWct_",
+  "name": "Wie Du bezahlt wirst",
+  "file": "k01-l03.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "p9OzS39Mhs2hLu7n7d32",
+  "lessonId": "odq-EyaNzJHFpPlvo78zm",
+  "name": "Calendly und Zoom verknüpfen",
+  "file": "k01-l04.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "p9OzS39Mhs2hLu7n7d32",
+  "lessonId": "Nd9nMak393vN_jDGOjOcN",
+  "name": "DSGVO Erklärung",
+  "file": "k01-l05.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "Q5rrkBoa53VvkTbxFx6Y",
+  "lessonId": "FaeJU8uU5tIiAE_cgHyW8",
+  "name": "Unser Kunde",
+  "file": "k02-l01.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "Q5rrkBoa53VvkTbxFx6Y",
+  "lessonId": "0krXLKTkDX0pV0mkGRduF",
+  "name": "AI Money Creator OS",
+  "file": "k02-l02.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "Vf7cjil9geWzYyRfsExoJ",
+  "name": "Skript",
+  "file": "k03-l01.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "noUqaWsdDpY9Q83J1plJw",
+  "name": "Smalltalk und Setting",
+  "file": "k03-l02.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "PNJHpw5Vrvj5SzJOphdqp",
+  "name": "Frage 1: Wieso ist Dir das sooo wichtig?",
+  "file": "k03-l03.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "aXbn7d-LBmDI_2tPyA6sg",
+  "name": "Frage 2: Wir sehen uns in 12 Monaten wieder",
+  "file": "k03-l04.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "5cO88CjLLiIDqjdaqyJBy",
+  "name": "Gab es genügend Qualifikation?",
+  "file": "k03-l05.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "34AqZCKMJzokmHiI7VGdD",
+  "name": "Grünes Licht … WEIL …",
+  "file": "k03-l06.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "kUYWx-CCAZ0o71HiWwLIN",
+  "name": "Bevor wir zu Deiner Anmeldung kommen",
+  "file": "k03-l07.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "kCeGbAeqbkk_BE0mAvimQ",
+  "name": "Der Link im Chat",
+  "file": "k03-l08.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "ecNU9jtO1Xtmt2U0c9vlT",
+  "name": "Zahlformular: Geduld und Ausdauer",
+  "file": "k03-l09.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "SPBZSuYBLxm_OmbX7ViGr",
+  "name": "Kurzes Onboarding + Callbuchung nach dem Sale",
+  "file": "k03-l10.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "oYnDiiYixXxu7nvx3Dwfs",
+  "name": "PayPal-Prozess",
+  "file": "k03-l11.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "5cs1nq2q-5CV8TqDQdGuJ",
+  "name": "Klarna-Prozess",
+  "file": "k03-l12.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "hcO0izyAwwpEEd_woRqUo",
+  "name": "Ergänzung zu PayPal und Klarna",
+  "file": "k03-l13.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "W95aeYxDd0Rig-TsvADr9",
+  "name": "Wenn die Zugangsdaten nicht ankommen",
+  "file": "k03-l14.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "MF3uf2aNiHmjKn4Tz3CqF",
+  "name": "„Ich muss nochmal drüber schlafen“",
+  "file": "k03-l15.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "GkPPagtvL0s8VPEXsqyV",
+  "lessonId": "HU9CN0-LyPb4tbrDjZIti",
+  "name": "Checkliste: Ready für den ersten Salescall?",
+  "file": "k03-l16.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "HeNl9kBFreviq29FUs7B",
+  "lessonId": "odx1SSzPBWKdODRT5Pna9",
+  "name": "Grundregeln",
+  "file": "k04-l01.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "HeNl9kBFreviq29FUs7B",
+  "lessonId": "pzdixm1V72ywHEQvo3aL2",
+  "name": "Webinar ist Pflicht",
+  "file": "k04-l02.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "HeNl9kBFreviq29FUs7B",
+  "lessonId": "WSPFEfgRz5q3yY0BUSH_R",
+  "name": "Call aufzeichnen ist Pflicht",
+  "file": "k04-l03.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "OkkV1DHvZUdYb4Xgcd6H",
+  "lessonId": "f_J-SBRs4lZKLZIIigDI6",
+  "name": "Dein 15-Minuten Admin-Termin",
+  "file": "k05-l01.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "-ayV0V4IZoexGIzqUyWkR",
+  "name": "Georgios Dionisiadis",
+  "file": "k06-l01.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "uVdlq8Mrv3ll5AYiFH74K",
+  "name": "Melanie Kunzmann",
+  "file": "k06-l02.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "LEsxh-WvmCFTWYsYEfeb8",
+  "name": "Wolfgang Kroj",
+  "file": "k06-l03.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "vkHuHFrFE81XaCpkzxPBX",
+  "name": "Ines Graßl",
+  "file": "k06-l04.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "NwdA4ZSv0Qdf3eZQzi2Wf",
+  "name": "Guido Niederberger",
+  "file": "k06-l05.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "BSNNCYvpzhG29FGAgWQ5x",
+  "name": "Marcel Lais",
+  "file": "k06-l06.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "g9LGvqu10E3MwNChDbeQo",
+  "name": "Tanja Prediger",
+  "file": "k06-l07.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "-pqT97OGSiLoQm8kk1sZV",
+  "name": "Wadim Gerner",
+  "file": "k06-l08.png"
+ },
+ {
+  "kind": "lesson",
+  "courseId": "0jI5nDyK-RtUyS8NBAKPc",
+  "chapterId": "hf7vrjuBmeZE63d5leWJ",
+  "lessonId": "8Z7DMgt-0p6tB_1hYnEoD",
+  "name": "Edgar Ziegler",
+  "file": "k06-l09.png"
+ }
+]
